@@ -1892,6 +1892,10 @@ background-gradient-end: rgba(184,255,102,0.91);
 box-shadow: outset 0px 0px 1px 1px rgba(5,5,5,0.41);
 }
 
+.applet-label {
+font-weight: bold;
+color: #000; }
+
 .applet-label:hover{
 color: #000;
 font-weight: bold;
